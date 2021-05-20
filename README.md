@@ -4,7 +4,7 @@
 ### Java
 ### Php
 
-###Serwery które robię:
+### Serwery które robię:
 
-###BLURMC.PL(Java + Php)
-###Mcgravity.pl(Java)
+### BLURMC.PL(Java + Php)
+### Mcgravity.pl(Java)
