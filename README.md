@@ -6,5 +6,5 @@
 
 ### Serwery które robię:
 
-### BLURMC.PL(Java + Php)
-Mcgravity.pl(Java)
+### Blurmc.pl(Java + Php)
+### Mcgravity.pl(Java)
