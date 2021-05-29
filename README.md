@@ -1,4 +1,4 @@
-### Simeka jestem Paweł 👋
+### Siemka jestem Paweł 👋
 
 
 ### Języki którymi się posługuję:
