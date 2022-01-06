@@ -6,7 +6,6 @@ JAVA, PHP
 
 ### Serwery które robię:
 
-### Blurmc.pl(Java + Php)
 ### TripMc.eu(Java)
 ### Mcgravity.pl(Java)
 
