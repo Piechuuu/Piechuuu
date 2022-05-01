@@ -1,13 +1,10 @@
 ### Siemka jestem Paweł 👋
-
-
 ### Języki którymi się posługuję:
 JAVA, PHP
 
 ### Serwery które robię:
-
 ### TripMc.eu(Java)
-### Blurmc.pl(Java)
+### SunHC.PL(Java)
 ### CraftAge.pl(Java)
 ### Mcgravity.pl(Java)
 
